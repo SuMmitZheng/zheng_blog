@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://github.com/SuMmitZheng",
   },
 
-  iconAssets: "iconfont",
+  iconAssets: "fontawesome",
 
   logo: "/wz.jpg",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "默认页脚",
+  footer: "",
 
   displayFooter: true,
 

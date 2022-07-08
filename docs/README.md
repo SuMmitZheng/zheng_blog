@@ -4,7 +4,7 @@ layout: Blog
 icon: home
 title: 博客主页
 heroImage: 
-heroText: ZHENG BLOG
+heroText: MY BLOG
 heroFullScreen: true
 tagline: Stay hungry，Stay foolish
 bgImage: /wallroom-3840x2160-bg-2ba6ba8.jpg

@@ -3,28 +3,33 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   { text: "首页", icon: "home", link: "/" },
 
+  { text: "Java",
+    icon: "brands fa-java",
+    link: "/spring/spring-overview.md"
+    },
+
   { text: "Spring",
-    icon: "java",
+    icon: "solid fa-leaf",
     link: "/spring/spring-overview.md"
   },
 
   { text: "Docker",
-    icon: "note",
+    icon: "brands fa-docker",
     link: "/docker/docker-overview.md"
   },
 
-  { text: "K8S",
-    icon: "note",
+  { text: "Kubernetes",
+    icon: "solid fa-dharmachakra",
     link: "/k8s/k8s-overview.md"
   },
 
   { text: "中间件",
-    icon: "mysql",
+    icon: "fa-solid fa-database",
     prefix: "/middleware/",
     children: [
       {
         text: "mysql",
-        icon: "mysql",
+        icon: "fa-solid fa-database",
         link: "mysql/mysql-overview.md"
       },
       {
