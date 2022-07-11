@@ -5,7 +5,7 @@ export default navbar([
 
   { text: "Java",
     icon: "brands fa-java",
-    link: "/spring/spring-overview.md"
+    link: "/java/java-overview.md"
     },
 
   { text: "Spring",
